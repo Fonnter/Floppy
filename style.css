@@ -1,0 +1,15 @@
+body {
+  background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/retro-rainbow-gradient-western-exposure.jpg)
+}
+p {
+  color: yellow;
+}
+h1 {
+  font-weight: bold;
+}
+.Text {
+  align-content: center;
+  font-family: fantasy;
+  font-size: 40px;
+  color: yellow;;
+}
