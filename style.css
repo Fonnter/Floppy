@@ -17,3 +17,7 @@ script {
   p.solid {border-style: solid;}
   border-color: red;
 }
+iframe {
+  p.solid {border-style: solid;}
+  border-color: red;
+}
