@@ -21,3 +21,7 @@ iframe {
   p.solid {border-style: solid;}
   border-color: red;
 }
+div {
+  p.solid {border-style: solid;}
+  border-color: red;
+}
